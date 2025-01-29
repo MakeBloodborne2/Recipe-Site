@@ -1,0 +1,24 @@
+html{
+    background-color: #FEF9E1 ;
+}
+.top-text{
+        font-family: "Bungee Tint", serif;
+        font-weight: 400;
+        font-style: normal;
+}
+.recipe-title {
+    font-family: "New Amsterdam", serif;
+    font-weight: 400;
+    font-style: normal;
+    font-size: 30px;
+    background-color: #E5D0AC;
+    padding: 3px;
+    margin: 5px;
+}
+a{
+    color: black;
+}
+hr{
+    height:3px;
+    background-color: red;
+}
